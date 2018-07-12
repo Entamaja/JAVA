@@ -1,0 +1,73 @@
+Prvi Igrac:
+
+Naziv = Retko glupa zamka
+Napad = 150
+Odbrana = 60
+Unistena = false
+Polozaj = ODBRANA
+Tip Karte = ZAMKA
+___________________________
+Naziv = cudoviste Godzila junior
+Napad = 1000
+Odbrana = 3000
+Unistena = false
+Polozaj = NAPAD
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = cudoviste Godzila
+Napad = 220
+Odbrana = 100
+Unistena = false
+Polozaj = NAPAD
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = Retko glupo cudoviste
+Napad = 201
+Odbrana = 100
+Unistena = false
+Polozaj = ODBRANA
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = Retko glupo cudoviste
+Napad = 201
+Odbrana = 100
+Unistena = false
+Polozaj = ODBRANA
+Tip Karte = CUDOVISTE
+___________________________Drugi igrac:
+
+Naziv = cudoviste Godzila
+Napad = 220
+Odbrana = 100
+Unistena = false
+Polozaj = NAPAD
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = Retko glupo cudoviste
+Napad = 201
+Odbrana = 100
+Unistena = false
+Polozaj = ODBRANA
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = Retko glupo cudoviste
+Napad = 201
+Odbrana = 100
+Unistena = false
+Polozaj = ODBRANA
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = cudoviste Godzila junior
+Napad = 1000
+Odbrana = 3000
+Unistena = false
+Polozaj = NAPAD
+Tip Karte = CUDOVISTE
+___________________________
+Naziv = cudoviste Godzila
+Napad = 220
+Odbrana = 100
+Unistena = false
+Polozaj = NAPAD
+Tip Karte = CUDOVISTE
+___________________________
